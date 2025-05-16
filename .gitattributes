@@ -1,0 +1,4 @@
+pls_senado.zip filter=lfs diff=lfs merge=lfs -text
+pls_camara.zip filter=lfs diff=lfs merge=lfs -text
+detalhes_pls_camara.zip filter=lfs diff=lfs merge=lfs -text
+detalhes_pls_senado.zip filter=lfs diff=lfs merge=lfs -text
