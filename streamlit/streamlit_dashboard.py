@@ -59,7 +59,7 @@ st.markdown("""
 
 #######################
 # Load data
-df = pd.read_json('pls_full_2_norm.json')
+df = pd.read_json('streamlit/pls_full_2_norm.json')
 df["ano"] = pd.to_datetime(df["data_apresentacao"]).dt.year
 
 #######################
