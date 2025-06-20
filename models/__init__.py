@@ -1,0 +1,1 @@
+from .projeto_lei import Autor, Casa, Classificacao, ProjetoLei
